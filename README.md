@@ -28,6 +28,7 @@ Eventually, the company's complacenacy and lack of forward thinking led to a gro
 ## GameStop: 2021 - Current
 
 
+
 ### Leadership Change
 
 
