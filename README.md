@@ -7,6 +7,18 @@ Historically, Gamestop has been a successful specialty retailer offering video g
 
 As business was 
 
+  These acquisitions include:
+  * EB Games in 2005 for $1.44 Billion
+    * Chain focused on selling used video games 
+  * MovieStop in 2004 for undisclosed amount
+     * Chain focused on selling used & new movies
+  * Free Record Shops in 2008 for undisclosed amount
+     * Chain focused on reselling used records
+   * BuyMyTronics in 2012 for undisclosed amount
+     * Chain focused on selling used electronics online
+   * Simply Mac in 2012 for undisclosed amount
+     * Chain focused on repairing Apple products
+
 Eventually, the company's complacenacy and lack of forward thinking led to a group of activist investors to present a detailed prsentation on where the company should be focusing their efforts. The thesis of this presentation was that the company should be looking to cut costs and invest in higher margin operations (item 2 in the appendix - GameStop Restore Presentation). 
 
 ..... Enter Ryan Cohen.
@@ -73,3 +85,7 @@ Power to the Players.
 https://en.wikipedia.org/wiki/GameStop
 
 https://www.sec.gov/Archives/edgar/data/1326380/000092189520001599/ex1todfan14a12166002_052620.pdf
+
+https://www.macrotrends.net/stocks/charts/GME/gamestop/revenue
+
+
