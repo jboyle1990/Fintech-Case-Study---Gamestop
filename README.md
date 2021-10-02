@@ -91,7 +91,7 @@ https://nft.gamestop.com/
 
 Brick and mortar competition will reamin largely stagnant. Big box stores who don't specialize in the gaming sector will continue to provide a "one stop shopping" experience. 
 
-Emerging competition includes an NFT marketplace and two blockchain based games. The blockchain based games represent an emerging model of gaming where players are earning rewards for their involvement on the platform. This model could become a significant threat to Gamestop's current core relationship base (Microsoft, Sony, Nintendo). The differnece in Gamestop combating the emerging competitors may be their capital. Gamestop has over a billion dollars in cash and multiple lines of credit where these emerging companies are working with capitalizations in the tens of millions.
+Emerging competition includes an NFT marketplace and two blockchain based games. The blockchain based games represent an emerging model of gaming where players are earning rewards for their involvement on the platform. This model could become a significant threat to Gamestop's current core relationship base (Microsoft, Sony, Nintendo). The difference in Gamestop combating the emerging competitors may be their capital. Gamestop has over a billion dollars in cash and multiple lines of credit where these emerging companies are working with capitalizations in the tens of millions.
 
 ## How to beat the "Game"?
 
