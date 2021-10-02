@@ -65,11 +65,7 @@ In a letter that Ryan wrote to the Gamestop board of directors in Novemeber of 2
       *To add insult to injury for GameStop’s stockholders, the size of the global gaming market has grown
        by more than 2.5x since the last console cycle.3"
 
-### New Growth Verticals
 
-#### Investing in Online Shopping
-
-#### 
 
 ## The "Playing" Field
 
@@ -82,6 +78,7 @@ In a letter that Ryan wrote to the Gamestop board of directors in Novemeber of 2
 #### Market Environment 
 
 ## How to beat the "Game"?
+
 
 ### Leverage Current Partnerships
 
