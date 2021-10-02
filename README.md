@@ -32,16 +32,21 @@
 
 #### NFT Platform
 
+What the hell is an NFT? 
+
 ####  Game Exchange
 
 #### Develop Original IP 
 
-## Power to the Players (and Gamestop)
+#### In-Store Service Suite
 
 
-### Conclusion 
+## Saving our Progress 
 
 
+### End Credits
 
+Gamestop is uniquely positioned to leverage existing relationships, their captial on hand, and early entry to the Ethereum blockchain into a full blown company transformation. The company is looking toward a future where they are no longer reliant on brick and mortar stores to maintain profitability. Future growth verticals include blockchain products (whatever they may be) and an emphasis on a robust online product offering to rival any traditional competitor (Amazon included).  While, we don't know where these changes will lead, it's incredibly exciting that new leadership was able to identify the emergance of blockchain technology and look to embrace the omnichannel retail model through signifcant investment in thier online offerings.
 ![powertotheplayers-png](https://user-images.githubusercontent.com/91380617/135700207-54bfdeb5-f251-42d5-b50e-bd2ccb0a8339.png)
+
 ## Appendix 
