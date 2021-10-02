@@ -27,7 +27,21 @@ Eventually, the company's complacenacy and lack of forward thinking led to a gro
 
 ## GameStop: 2021 - Current
 
+Estimates have the video game industry growing to as much as $200 Billion by 2023. It's puzzling that a retailer who has a specialty in this industry hasn't found a way to capture or grow alongside this industry. 
 
+![image](https://user-images.githubusercontent.com/91380617/135702124-f9ac4e5e-d17e-4da2-8897-f6acbda02883.png)
+
+Areas of  growth include:
+
+* Hardware sales
+  * Compnents 
+  * Consoles
+  * Accessories
+* Esports
+  * Merchandise
+  * Branding opportunities
+* Online Viewership (Twitch & Youtube)
+  * Estimated 26 million viewers in 2021
 
 ### Leadership Change
 
@@ -92,3 +106,7 @@ https://www.sec.gov/Archives/edgar/data/1326380/000092189520001599/ex1todfan14a1
 https://www.macrotrends.net/stocks/charts/GME/gamestop/revenue
 
 https://ycharts.com/companies/GME/revenues_annual
+
+https://variety.com/vip-special-reports/the-state-of-the-video-game-industry-in-2021-1234980415/
+
+https://www.marketwatch.com/story/videogames-are-a-bigger-industry-than-sports-and-movies-combined-thanks-to-the-pandemic-11608654990
