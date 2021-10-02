@@ -3,9 +3,11 @@
 
 ## GameStop: 1984 -2021
 
-Historically, Gamestop has been a successful specialty retailer offering video game products and other related merchandise. 
+Historically, Gamestop has been a successful specialty retailer offering video game products and other related merchandise. At it's peak the company operated over 5,000 locations and earned over 9 billion in revenue annually.
 
-As business was 
+![image](https://user-images.githubusercontent.com/91380617/135701754-cf03170d-53ce-4e02-97c8-d530f1ea16eb.png)
+
+As business started to stagnate in 2010-2016 the company made a number of unsuccessful acquisitions to attempt to revitalize business. The challenge that management faced was that they focused on revitalizing the current model of business instead of forecasting where Gamestop could thrive in an evolving industry.
 
   These acquisitions include:
   * EB Games in 2005 for $1.44 Billion
@@ -88,4 +90,4 @@ https://www.sec.gov/Archives/edgar/data/1326380/000092189520001599/ex1todfan14a1
 
 https://www.macrotrends.net/stocks/charts/GME/gamestop/revenue
 
-
+https://ycharts.com/companies/GME/revenues_annual
