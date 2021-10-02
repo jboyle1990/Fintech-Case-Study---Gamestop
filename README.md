@@ -3,9 +3,11 @@
 
 ## GameStop: 1984 -2021
 
+Historically, Gamestop has been a successful specialty retailer offering video game products and other related merchandise. 
 
+As business was 
 
-Eventually, the company's complacenacy led to a group of activist investors to present a detailed prsentation on where the company should be focusing their efforts. The thesis of this presentation was that the company should be looking to cut costs and invest in higher margin operations (item 2 in the appendix - GameStop Restore Presentation). 
+Eventually, the company's complacenacy and lack of forward thinking led to a group of activist investors to present a detailed prsentation on where the company should be focusing their efforts. The thesis of this presentation was that the company should be looking to cut costs and invest in higher margin operations (item 2 in the appendix - GameStop Restore Presentation). 
 
 ..... Enter Ryan Cohen.
 
@@ -50,6 +52,10 @@ Defi Platform?
 
 ### In-Store Services Suite
 
+* Computer Build services
+* Gaming Cafe
+* Board Game Cafe
+* Offer in Store perks for "Power Up" Reward Members
 
 ## Saving our Progress 
 
