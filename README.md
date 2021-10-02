@@ -1,1 +1,2 @@
-# Fintech-Case-Study---Gamestop
+# Gamestop - A Pioneer on the Ethereum Blockchain?
+
