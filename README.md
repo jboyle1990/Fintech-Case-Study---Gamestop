@@ -84,18 +84,30 @@ https://nft.gamestop.com/
 
 ### Leverage Current Partnerships
 
+Gamestop remains the only specialty "video game" retailer. While a number of big box stores carry these products, none exclusively exhibit video games. Gaming giants such as Sony, Microsoft, and Nintendo do not have dedicated retail space to sell their products so a specality retailer could exert a significant amount of leverage when negotiating with these companies.
+
+https://news.gamestop.com/news-releases/news-release-details/gamestop-announces-multi-year-strategic-partnership-microsoft
+
+These partnerships could also provide incredible synergy with the upcoming Gamestop NFT platform. This will be outlined further below.
+
+Another area where Gamestop to leverage these relationships is to continue to expand online offerings to encompass all strategic partners' products outside of the video game sector.
+
+Evidence has grown that Gamestop plans to rival Amazon in the online retail space with significant investment in their fulfillment netweork and expanded online product offering.
+
+https://news.gamestop.com/news-releases/news-release-details/gamestop-expands-fulfillment-network-new-facility-york
 
 ### Explore Blockchain Products
 
 #### NFT Platform
 
-What the hell is an NFT? 
 
-Defi Platform?
 
 #### Game Exchange
 
+
+
 ### Develop Original IP 
+
 
 ### In-Store Services Suite
 
@@ -103,6 +115,8 @@ Defi Platform?
 * Gaming Cafe
 * Board Game Cafe
 * Offer in Store perks for "Power Up" Reward Members
+
+This suite of in store services would allow Gamestop to increase profitability and drive traffic at locations.  The logic behind the gaming game and board game cafe would allow current locations to offer rentable areas in current stores where consumers could sample product or compete against friends. The computer build services would allow employees to assist consumers in the daunting task of building their own gaming PC. 
 
 ## Saving our Progress 
 
@@ -136,3 +150,5 @@ https://s.wsj.net/public/resources/documents/RC_Ventures_Letter_to_GameStop.pdf
 https://venturebeat.com/2021/08/06/the-deanbeat-blockchain-gaming-companies-raised-476m-in-the-first-half-of-2021/
 
 https://cryptopotato.com/is-gamestop-developing-an-ethereum-based-nft-platform/
+
+https://news.gamestop.com/news-releases/news-release-details/gamestop-announces-multi-year-strategic-partnership-microsoft
