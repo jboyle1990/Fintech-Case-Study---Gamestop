@@ -69,10 +69,7 @@ One of the more interesting developments post appointment was that Gamestop bega
 
 https://nft.gamestop.com/
 
-![image](https://user-images.githubusercontent.com/91380617/135702899-ed309b4f-beb9-400f-bda7-13b9a0e66877.png)
-
 ## The "Playing" Field
-
 
 ### Legacy Competitors
 
