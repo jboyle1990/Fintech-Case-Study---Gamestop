@@ -99,18 +99,32 @@ https://news.gamestop.com/news-releases/news-release-details/gamestop-expands-fu
 
 ### Explore Blockchain Products
 
-#### NFT Platform
+#### Game Exchange - NFT Platform
 
-While we don't know 
+A large reason why Gamestop thrived in the early 2000s was that they purchased used games from customers and resold thaem. However, that model became obsolete as gaming moved to a digital model.  There simply isn't a need for physical disks. I'm proposing an NFT platform where the customer digital game downloads are "NFTs". This would assign digital ownership to the customer. In turn, the Gamestop NFT platorm could act as a marketplace for gamers to buy and sell used games. 
 
-#### Game Exchange
+Currently, a majority of the digital game marketplace is dominated by a company called Steam. 
 
+Benefits for an "NFT" based used game model:
 
-
+* Gamestop could capture resale revenue from each purchase
+* Customers would feel empowered to use the Gamestop Ecosystem by selling used games on the platform
+  * Steam doesn't allow customers to resell games
+* Game Developers could capture a small amount from each sale 
+  * incentivizing the best developers to publish games on your platform
+  * developers are currently frustrated with the current online publishing platforms because they take too large of a revenue cut
+    *https://www.theverge.com/2021/9/12/22667694/epic-v-apple-trial-fortnite-judge-yvonne-gonzalez-rogers-final-ruling-injunction-breakdown
 
 ![image](https://user-images.githubusercontent.com/91380617/135703591-98b493e7-098d-4bc1-b60d-e40b00b01012.png)
 
-While we don't have Steam's revenue past 2017 we do know that the gaming industry experienced explosive growth. 
+We don't have Steam's revenue past 2017 (they were acquired) we do know that the gaming industry experienced explosive growth. Per our chart above the industry grew 15% from 2017 to 2018. It's a confident assumption that Steam tracked with the overall market.
+
+Providing a direct competitor to Steam would help bolster fear that a "discless" video game future would drive Gamestop to bankrupcy. 
+
+#### Pop Culture - NFT Platform
+
+While we don't know 
+
 ### Develop Original IP 
 
 
