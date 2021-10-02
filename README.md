@@ -65,6 +65,12 @@ In a letter that Ryan wrote to the Gamestop board of directors in Novemeber of 2
 
 By June of 2021 Ryan had been appointed Executive Chairman and will be the driving force behind whatever changes are implemented at Gamestop.
 
+One of the more interesting developments post appointment was that Gamestop began hiring blockchain developers and a Gamestop "nft" website went live.
+
+https://nft.gamestop.com/
+
+![image](https://user-images.githubusercontent.com/91380617/135702899-ed309b4f-beb9-400f-bda7-13b9a0e66877.png)
+
 ## The "Playing" Field
 
 
@@ -129,3 +135,7 @@ https://www.marketwatch.com/story/videogames-are-a-bigger-industry-than-sports-a
 https://www.wsj.com/articles/gamestop-ryan-cohen-chewy-meme-stock-11628776861
 
 https://s.wsj.net/public/resources/documents/RC_Ventures_Letter_to_GameStop.pdf
+
+https://venturebeat.com/2021/08/06/the-deanbeat-blockchain-gaming-companies-raised-476m-in-the-first-half-of-2021/
+
+https://cryptopotato.com/is-gamestop-developing-an-ethereum-based-nft-platform/
