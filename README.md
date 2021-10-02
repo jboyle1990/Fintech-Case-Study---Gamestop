@@ -30,15 +30,15 @@
 
 ### Explore Blockchain Products
 
-#### NFT Platform
+### NFT Platform
 
 What the hell is an NFT? 
 
-####  Game Exchange
+###  Game Exchange
 
-#### Develop Original IP 
+### Develop Original IP 
 
-#### In-Store Service Suite
+### In-Store Service Suite
 
 
 ## Saving our Progress 
