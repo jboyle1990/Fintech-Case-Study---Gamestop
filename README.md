@@ -49,7 +49,7 @@ By November of 2020 Ryan Cohen, founder of Chewy, had built a 12% stake in the c
 
 In a letter that Ryan wrote to the Gamestop board of directors in Novemeber of 2020 he cleary identified the current issues the company faced and the consequences of their lack of actions.
 
-  * It is equally important to stressthat GameStop hasfailed to adequately keep pace with key industry developments in recent years, including:
+  * It is equally important to stress that GameStop hasfailed to adequately keep pace with key industry developments in recent years, including:
       * The transition from physical hardware to digital streaming.
       * The explosion of mobile.
       * The shift to purchasing from mass retailers and other online competitors.
@@ -63,9 +63,10 @@ In a letter that Ryan wrote to the Gamestop board of directors in Novemeber of 2
       * To add insult to injury for GameStop’s stockholders, the size of the global gaming market has grown
        by more than 2.5x since the last console cycle.3"
 
-
+By June of 2021 Ryan had been appointed Executive Chairman and will be the driving force behind whatever changes are implemented at Gamestop.
 
 ## The "Playing" Field
+
 
 ### Legacy Competitors
 
@@ -80,15 +81,16 @@ In a letter that Ryan wrote to the Gamestop board of directors in Novemeber of 2
 
 ### Leverage Current Partnerships
 
+
 ### Explore Blockchain Products
 
-### NFT Platform
+#### NFT Platform
 
 What the hell is an NFT? 
 
 Defi Platform?
 
-### Game Exchange
+#### Game Exchange
 
 ### Develop Original IP 
 
