@@ -101,12 +101,16 @@ https://news.gamestop.com/news-releases/news-release-details/gamestop-expands-fu
 
 #### NFT Platform
 
-
+While we don't know 
 
 #### Game Exchange
 
 
 
+
+![image](https://user-images.githubusercontent.com/91380617/135703591-98b493e7-098d-4bc1-b60d-e40b00b01012.png)
+
+While we don't have Steam's revenue past 2017 we do know that the gaming industry experienced explosive growth. 
 ### Develop Original IP 
 
 
@@ -152,3 +156,5 @@ https://venturebeat.com/2021/08/06/the-deanbeat-blockchain-gaming-companies-rais
 https://cryptopotato.com/is-gamestop-developing-an-ethereum-based-nft-platform/
 
 https://news.gamestop.com/news-releases/news-release-details/gamestop-announces-multi-year-strategic-partnership-microsoft
+
+https://www.statista.com/statistics/547025/steam-game-sales-revenue/
