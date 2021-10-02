@@ -35,7 +35,8 @@
 
 #### Develop Original IP 
 
-## Time to Level Up
+## Power to the Players (and Gamestop)
 
+### Conclusion 
 
 ## Appendix 
