@@ -73,11 +73,25 @@ https://nft.gamestop.com/
 
 ### Legacy Competitors
 
+* Best Buy
+* Target
+* Wal-Mart
+* Amazon
+
+### Emerging Competitors 
+
+* Opensea
+  https://opensea.io/
+* Axie Infinity
+  https://axieinfinity.com/
+* MetaHero
+  https://punkscomic.com/planetdao.html
+
 #### Market Environment
 
-### Web3 Competitors
+Brick and mortar competition will reamin largely stagnant. Big box stores who don't specialize in the gaming sector will continue to provide a "one stop shopping" experience. 
 
-#### Market Environment 
+Emerging competition includes an NFT marketplace and two blockchain based games. The blockchain based games represent an emerging model of gaming where players are earning rewards for their involvement on the platform. This model could become a significant threat to Gamestop's current core relationship base (Microsoft, Sony, Nintendo). The differnece in Gamestop combating the emerging competitors may be their capital. Gamestop has over a billion dollars in cash and multiple lines of credit where these emerging companies are working with capitalizations in the tens of millions.
 
 ## How to beat the "Game"?
 
@@ -123,10 +137,19 @@ Providing a direct competitor to Steam would help bolster fear that a "discless"
 
 #### Pop Culture - NFT Platform
 
-While we don't know 
+What better way to supplement product sales then to sell digital merchandise branded by the hottest games in the industry?
 
-### Develop Original IP 
+This would be performed by creating a digital marketplace similar to OpenSea, who sold a billion dollars worth of NFTs in August. This would tie in nicely to the marketplace we discussed above. 
 
+![image](https://user-images.githubusercontent.com/91380617/135704035-eae985c0-41bb-4ba3-990b-9bc62ab20064.png)
+
+Imagine buying a digital copy of the latest game and you get a serialized NFT that promotes the game you purchased. The NFT would could be rare or common but either way you would be a part of a proud communitity that cherises the individual game.
+
+For reference, an example of NFTs would be to create a product that resembles NBA Topshot (but for videogame IP):
+
+https://nbatopshot.com/
+
+Based on the OpenSea sales numbers it's clear that the world values these digital objects and it would be foolish not to aggressively pursue a fraction of this market. 
 
 ### In-Store Services Suite
 
@@ -172,3 +195,5 @@ https://cryptopotato.com/is-gamestop-developing-an-ethereum-based-nft-platform/
 https://news.gamestop.com/news-releases/news-release-details/gamestop-announces-multi-year-strategic-partnership-microsoft
 
 https://www.statista.com/statistics/547025/steam-game-sales-revenue/
+
+https://decrypt.co/79789/opensea-3b-month-ethereum-nft-sales-amazon-ebay-etsy
