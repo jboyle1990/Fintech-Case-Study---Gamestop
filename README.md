@@ -27,7 +27,7 @@ Eventually, the company's complacenacy and lack of forward thinking led to a gro
 
 ## GameStop: 2021 - Current
 
-Estimates have the video game industry growing to as much as $200 Billion by 2023. It's puzzling that a retailer who has a specialty in this industry hasn't found a way to capture or grow alongside this industry. 
+Estimates have the video game industry growing to as much as $217 Billion by 2023. It's puzzling that a retailer who has a specialty in this industry hasn't found a way to capture or grow alongside this industry. 
 
 ![image](https://user-images.githubusercontent.com/91380617/135702124-f9ac4e5e-d17e-4da2-8897-f6acbda02883.png)
 
@@ -45,7 +45,25 @@ Areas of  growth include:
 
 ### Leadership Change
 
+By November of 2020 Ryan Cohen, founder of Chewy, had built a 12% stake in the company and began urging the board of directors for action.
 
+In a letter that Ryan wrote to the Gamestop board of directors in Novemeber of 2020 he cleary identified the current issues the company faced and the consequences of their lack of actions.
+
+  "It is equally important to stressthat GameStop hasfailed to adequately keep pace with key industry developments
+   in recent years, including:
+      *The transition from physical hardware to digital streaming.
+      *The explosion of mobile.
+      *The shift to purchasing from mass retailers and other online competitors.
+    By not capitalizing on these shifts, GameStop has lost billions of dollars in annual revenue and squandered a
+    massive amount of market share. The Board cannot run from the following facts:
+      *Sales have plunged from $9.5 billion in fiscal year 2011 to $6.4 billion in fiscal year 2019.
+      *Annual EBITDA has dropped from $839 million in fiscal year 2011 (before the last console cycle) to
+      only $111 million in fiscal year 2019.
+      *Net income has fallen off a cliff from $339 million in fiscal year 2011 to a staggering loss of $470
+       million in fiscal year 2019.
+      *In the two most recent quarters alone, the Company has lost another $277 million.
+      *To add insult to injury for GameStop’s stockholders, the size of the global gaming market has grown
+       by more than 2.5x since the last console cycle.3"
 
 ### New Growth Verticals
 
@@ -110,3 +128,7 @@ https://ycharts.com/companies/GME/revenues_annual
 https://variety.com/vip-special-reports/the-state-of-the-video-game-industry-in-2021-1234980415/
 
 https://www.marketwatch.com/story/videogames-are-a-bigger-industry-than-sports-and-movies-combined-thanks-to-the-pandemic-11608654990
+
+https://www.wsj.com/articles/gamestop-ryan-cohen-chewy-meme-stock-11628776861
+
+https://s.wsj.net/public/resources/documents/RC_Ventures_Letter_to_GameStop.pdf
