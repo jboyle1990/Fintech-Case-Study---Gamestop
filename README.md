@@ -5,16 +5,22 @@
 
 
 
-###
+Eventually, the company's complacenacy led to a group of activist investors to present a detailed prsentation on where the company should be focusing their efforts. The thesis of this presentation was that the company should be looking to cut costs and invest in higher margin operations (item 2 in the appendix - GameStop Restore Presentation). 
+
+..... Enter Ryan Cohen.
 
 ## GameStop: 2021 - Current
 
 
 ### Leadership Change
 
+
+
 ### New Growth Verticals
 
-###
+#### Investing in Online Shopping
+
+#### 
 
 ## The "Playing" Field
 
@@ -60,3 +66,4 @@ Power to the Players.
 
 https://en.wikipedia.org/wiki/GameStop
 
+https://www.sec.gov/Archives/edgar/data/1326380/000092189520001599/ex1todfan14a12166002_052620.pdf
