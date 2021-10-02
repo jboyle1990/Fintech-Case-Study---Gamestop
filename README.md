@@ -87,7 +87,7 @@ https://nft.gamestop.com/
 * MetaHero
   https://punkscomic.com/planetdao.html
 
-#### Market Environment
+### Market Environment
 
 Brick and mortar competition will reamin largely stagnant. Big box stores who don't specialize in the gaming sector will continue to provide a "one stop shopping" experience. 
 
