@@ -49,7 +49,7 @@ By November of 2020 Ryan Cohen, founder of Chewy, had built a 12% stake in the c
 
 In a letter that Ryan wrote to the Gamestop board of directors in Novemeber of 2020 he cleary identified the current issues the company faced and the consequences of their lack of actions.
 
-  "It is equally important to stressthat GameStop hasfailed to adequately keep pace with key industry developments
+  *"It is equally important to stressthat GameStop hasfailed to adequately keep pace with key industry developments
    in recent years, including:
       *The transition from physical hardware to digital streaming.
       *The explosion of mobile.
