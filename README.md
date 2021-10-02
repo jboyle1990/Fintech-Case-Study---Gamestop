@@ -97,7 +97,7 @@ Emerging competition includes an NFT marketplace and two blockchain based games.
 
 Below are three reccommendations for Gamestop moving forward. These three recommendations would help position the company to capitalize on blockchain technology as the world moves to widespread adoption in this sector. Gamestop would also have significant leverage with current business partners to strengthen the exisitng business model.
 
-### Leverage Current Partnerships
+### <Leverage Current Partnerships>
 
 Gamestop remains the only specialty "video game" retailer. While a number of big box stores carry these products, none exclusively exhibit video games. Gaming giants such as Sony, Microsoft, and Nintendo do not have dedicated retail space to sell their products so a specality retailer could exert a significant amount of leverage when negotiating with these companies.
 
@@ -113,7 +113,7 @@ https://news.gamestop.com/news-releases/news-release-details/gamestop-expands-fu
 
 ### Explore Blockchain Products
 
-#### Game Exchange - NFT Platform
+#### <Game Exchange - NFT Platform>
 
 A large reason why Gamestop thrived in the early 2000s was that they purchased used games from customers and resold thaem. However, that model became obsolete as gaming moved to a digital model.  There simply isn't a need for physical disks. I'm proposing an NFT platform where the customer digital game downloads are "NFTs". This would assign digital ownership to the customer. In turn, the Gamestop NFT platorm could act as a marketplace for gamers to buy and sell used games. 
 
@@ -135,7 +135,7 @@ We don't have Steam's revenue past 2017 (they were acquired) we do know that the
 
 Providing a direct competitor to Steam would help bolster fear that a "discless" video game future would drive Gamestop to bankrupcy. 
 
-#### Pop Culture - NFT Platform
+#### <Pop Culture - NFT Platform>
 
 What better way to supplement product sales then to sell digital merchandise branded by the hottest games in the industry?
 
