@@ -81,6 +81,7 @@ https://nft.gamestop.com/
 
 ## How to beat the "Game"?
 
+Below are three reccommendations for Gamestop moving forward. These three recommendations would help position the company to capitalize on blockchain technology as the world moves to widespread adoption in this sector. Gamestop would also have significant leverage with current business partners to strengthen the exisitng business model.
 
 ### Leverage Current Partnerships
 
@@ -116,10 +117,9 @@ https://news.gamestop.com/news-releases/news-release-details/gamestop-expands-fu
 * Board Game Cafe
 * Offer in Store perks for "Power Up" Reward Members
 
-This suite of in store services would allow Gamestop to increase profitability and drive traffic at locations.  The logic behind the gaming game and board game cafe would allow current locations to offer rentable areas in current stores where consumers could sample product or compete against friends. The computer build services would allow employees to assist consumers in the daunting task of building their own gaming PC. 
+This suite of in store services would allow Gamestop to increase profitability and drive traffic at locations.  The logic behind the gaming and board game cafe would allow current locations to offer rentable areas in current stores where consumers could sample product or compete against friends. The computer build services would allow employees to assist consumers in the daunting task of building their own gaming PC. These services would help increase profitability via low overhead services and help to monetize areas of current locations.
 
 ## Saving our Progress 
-
 
 ### End Credits
 
